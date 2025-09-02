@@ -1,4 +1,4 @@
-# Discord-Asana Agno Agent
+# Discord-Asana Agent
 
 A Python-based agent that connects Discord to Asana in real time, creating Asana tasks for new threads in specified Discord channels.
 
